@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simple To Do</string>
+    <string name="BTadd">Add</string>
+    <string name="BTclear">Clear</string>
+</resources>
